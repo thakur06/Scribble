@@ -2,12 +2,17 @@ import React,{useEffect,useState} from 'react';
 import Avatar from './Avatar';
 import avatar_1 from "../Icons/Avatar_1.png"
 import avatar_2 from "../Icons/Avatar_2.png"
-
+import avatar_3 from "../Icons/Avatar_3.png"
+import avatar_4 from "../Icons/Avatar_4.png"
+import avatar_5 from "../Icons/Avatar_5.png"
+import avatar_6 from "../Icons/Avatar_6.png"
 const imagesArray = [
-  avatar_1,
-    avatar_2,
     avatar_1,
-    avatar_2
+    avatar_2,
+    avatar_3,
+    avatar_4,
+    avatar_5,
+    avatar_6
 ];
 
 const Start = () => {
